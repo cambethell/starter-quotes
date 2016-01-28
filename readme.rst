@@ -2,6 +2,14 @@
 Starter Webapp - Quotes
 #######################
 
+Team members:
+T-bone
+C-bats
+J-unit
+
+Convention:
+Use Allman style notation
+
 This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
