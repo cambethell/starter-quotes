@@ -4,8 +4,8 @@ Starter Webapp - Quotes
 
 Team members:
 T-bone
+J-unit - Acknowledged
 C-bats - good with explosives
-J-unit
 
 Convention:
 Use roasted almond style notation
