@@ -4,11 +4,11 @@ Starter Webapp - Quotes
 
 Team members:
 T-bone
-C-bats
+C-bats - good with explosives
 J-unit
 
 Convention:
-Use Allman style notation
+Use roasted almond style notation
 
 This is the starter webapp for Tutorial ci-normal01
 
