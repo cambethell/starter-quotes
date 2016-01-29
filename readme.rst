@@ -4,7 +4,7 @@ Starter Webapp - Quotes
 
 Team members:
 T-bone
-C-bats
+C-bats - good with explosives
 J-unit
 
 Convention:
