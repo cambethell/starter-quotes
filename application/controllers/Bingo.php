@@ -13,9 +13,9 @@ class Bingo extends Application
 	
 	function index()
 	{
-		$record - $this->qoutes->get(5);
+		$record = $this->quotes->get(5);
 		$this->data = array_merge($this->data, $record);
-		$this->data['pagebody'] = 'justone'l
+		$this->data['pagebody'] = 'justone';
 		$this->render();	
 	}
 }
