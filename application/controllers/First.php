@@ -36,7 +36,18 @@ class First extends Application {
 		
 		$this->render();
         }
-
+        
+        function gimme($num) 
+        {
+                if(isset($num)) {
+                    $this->data['pagebody'] = 'justone';
+		$record = $this->quotes->data[$num - 1];
+		$this->data = array_merge($this->data, $record);
+		
+		$this->render();
+                }
+        }
+        
 }
 
 /* End of file Welcome.php */
